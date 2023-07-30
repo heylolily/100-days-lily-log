@@ -1,6 +1,4 @@
-# 100-days-kallaway-log
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+# 100-days-lily-log
+The log of my 100 Days Of Code
 
-[Round 1](R1.md)
-
-[Round 3](R3.md)
+I still have no idea how to really navigate and use GitHub, so I'll still be editing things here and there, and a lot of example template stuff from the original was still probably be around. I plan to edit things more in the future as I learn how to use the site and edit my code. I have completed the first two sections from the freeCodeCamp curriculum (Responsive webd esign and Javascript) but I'm trying to figure things out, so I wanted to try the 100 days of code challenge to try and do some small/big projects that may use html, css, and js. My log will probably be a mix of html/css/js/etc but each log will probably be different depending on my motivation. I struggle with keeping myself motivated and am really anxious to reach out on my own, so I hope this challenge will help me stay motivated and inspired, as well as break that social anxiety barrier. Feel free to let me know if I have any errors or mistakes, or to give me any tips and tricks. Explanations and other resources are super appreciated! Thanks for sticking around for this journey!
